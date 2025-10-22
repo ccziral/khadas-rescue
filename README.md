@@ -1,5 +1,5 @@
 # Krescue - tiny fast rescure system for khadas VIMs and Edge boards (amlogic & rockchips socs)
-this is the change
+this is the change and for pull
 One universal rescue system for khadas vims boards.
 We try to make one simple alternative way for solve common users problems!
 
